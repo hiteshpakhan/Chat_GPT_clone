@@ -67,3 +67,8 @@ now we are ready to deploy out front end online
 we are going to deploy our frontend on vercel.com
 
 for that select our git repository and select th eroot repository to client folder and continue and click deploy
+
+
+
+---------------
+we create new api key at date 26-12-2023 for chat gpt clone and on render deployed server we have change the api key
